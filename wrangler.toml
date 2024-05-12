@@ -13,5 +13,5 @@ compatibility_date = "2023-05-26"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
 PASSWORD = "oblokoblok"
-PROXYIP = "cdn.xn--b6gac.eu.org"
+PROXYIP = "35.216.66.207"
 
