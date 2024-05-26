@@ -13,5 +13,5 @@ compatibility_date = "2023-05-26"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
 PASSWORD = "wakkprivate"
-PROXYIP = "35.219.50.99"
+PROXYIP = "workers.cloudflare.cyou"
 
